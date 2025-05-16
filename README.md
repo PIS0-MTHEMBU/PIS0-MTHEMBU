@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PIS0-MTHEMBU
-- 👀 I’m interested in Compyter Science
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on making web pages
 - 📫 How to reach me simisosbo250@gmail.com

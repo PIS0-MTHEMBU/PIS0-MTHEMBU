@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PIS0-MTHEMBU
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on making web pages
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently doing my second year in Computer Science
+- 💞️ I’m looking to collaborate on fighting cyber Crime
 - 📫 How to reach me simisosbo250@gmail.com
 
 

@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @PIS0-MTHEMBU
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently doing my second year in Computer Science
-- 💞️ I’m looking to collaborate on fighting cyber Crime
-- 📫 How to reach me simisosbo250@gmail.com
-
-
-<!---
-PIS0-MTHEMBU/PIS0-MTHEMBU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @PIS0-MTHEMBU.
+- 👀 I’m interested in Hacking and web development.
+- 🌱 I’m currently doing my 3rd/final year in Computer Science and seeking for an internship/Work Integrated Learning(WIL).
+- 💞️ I’m looking to collaborate on fighting cyber Crime promote the use of technology through human built software.
+- 📫 How to reach me simisosbo250@gmail.com.
